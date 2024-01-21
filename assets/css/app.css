@@ -10234,9 +10234,6 @@ body.op-modal-open {
     color: var(--color-white);
 }
 
-.active-dark-mode .widget.widget-search .blog-search input {
-  /* -- Placeholder -- */
-}
 
 .active-dark-mode .widget.widget-search .blog-search input::-webkit-input-placeholder {
     color: var(--dark-body-text);
