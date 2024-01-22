@@ -449,6 +449,7 @@ input,
     color: var(--color-text-dark);
     padding: 15px 20px;
     width: 100%;
+    margin-top: 25px;
   /* -- Placeholder -- */
 }
 
